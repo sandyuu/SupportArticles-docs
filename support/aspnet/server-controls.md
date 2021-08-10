@@ -77,7 +77,7 @@ For more information about individual HTML server controls that are available in
 
 - [HtmlTableCell Control](/previous-versions/dotnet/netframework-1.1/5wsbhse3(v=vs.71))
 
-- [HtmlTableCell Control](/previous-versions/dotnet/netframework-1.1/405596yw(v=vs.71))
+- [HtmlTableRow Control](/previous-versions/dotnet/netframework-1.1/405596yw(v=vs.71))
 
 - [HtmlTextArea Control](/previous-versions/dotnet/netframework-1.1/h8ff3dty(v=vs.71))
 
